@@ -8,7 +8,7 @@ The primary market for solar powered heating is home or apartment owners and com
 
 As the product manager for this effort, I will work closely with an internal team consisting of product developers, manufacturing, marketing, operations, customer support, and sales. I will drive the completion of an internal assessment which includes completetion of various documents listed below. I will lead the way to ensure the product management lifecycle is used to SRU's advantage. I will drive the completion of an external assessment. In addition, I will need to drive all market development efforts for the new product offerings.
 
-Below are the neccesary Product development lifecycle requiements I have generated for this new product offering. I have attached each document to this repo for viewing. 
+Below are the neccesary requiements I have generated as I went through the product development lifecycle for this new product. I have attached each document to this repo for viewing. 
 
 1) The Conceive Phase:
   - Porter's Five Forces Model
