@@ -12,7 +12,6 @@ Below are the neccesary requiements I have generated as I went through the produ
 
 1) The Conceive Phase:
   - Porter's Five Forces Model
-  - Ansoff matrix
   - Product concept document
   - Product vision
 2) The Plan Phase:
