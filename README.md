@@ -21,10 +21,8 @@ Below are the neccesary requiements I have generated as I went through the produ
   - Business case
 3) The Develop Phase:
   - Beta Plan
-  - Usability testing assessment
 4) The Qualify Phases:
   - Launch readiness assesment
 5) The Launch Phases:
-  - Product narrative and positioning
-  - Marketing collateral options listing
+  - Marketing requirements document
   - Demand generation plan
