@@ -1,5 +1,5 @@
 # Solar-R-Us
-A fictitious product scenario from which crucial product related documents were created to simulate real-word environment. 
+This is a fictitious product scenario from IBM Product Management course. This is the capstone project. Crucial product related documents were created to simulate real-word environment in this scenario. 
 
 Summary of scenario: Solar-powered water heaters and furnaces have become increasingly popular due to their energy efficiency and environmental friendliness. According to a report by
 Forbes, solar water heaters can pay for themselves in as little as three to six years after the upfront investment. A report by Market Research Future states, the solar water heater market size was valued at USD 3.7 billion in 2022. The market industry is projected to grow from USD 4.01 billion in 2023 to USD 7.71 billion by 2032, exhibiting a compound annual growth rate (CAGR) of 8.50% during the forecast period (2023–2032).
